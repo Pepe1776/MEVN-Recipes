@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node.js restful API Express and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pepe1776/Vue-Recipes.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "J Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pepe1776/Vue-Recipes/issues"
+  },
+  "homepage": "https://github.com/Pepe1776/Vue-Recipes#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
